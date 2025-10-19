@@ -1,0 +1,3 @@
+function creeper_paranoia:_sudo/print_config
+function creeper_paranoia:save_storage
+function creeper_paranoia:set_timer with storage creeper_paranoia:values
