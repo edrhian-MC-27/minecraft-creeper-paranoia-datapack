@@ -1,0 +1,9 @@
+{
+  "pack": {
+    "description": "Creeper Paranoia - By edrhian",
+    "pack_format": 81,
+    "min_format": 81,
+    "max_format": 89,
+    "supported_formats": [81, 89]
+  }
+}
